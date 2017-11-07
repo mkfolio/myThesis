@@ -1,0 +1,9 @@
+E:\VS projects\rfid2.2\rfid2.2\bin\x86\Debug\rfid2.2.exe.config
+E:\VS projects\rfid2.2\rfid2.2\bin\x86\Debug\rfid2.2.exe
+E:\VS projects\rfid2.2\rfid2.2\bin\x86\Debug\rfid2.2.pdb
+E:\VS projects\rfid2.2\rfid2.2\obj\x86\Debug\rfid2.2.csprojResolveAssemblyReference.cache
+E:\VS projects\rfid2.2\rfid2.2\obj\x86\Debug\rfid2._2.Properties.Resources.resources
+E:\VS projects\rfid2.2\rfid2.2\obj\x86\Debug\rfid2.2.csproj.GenerateResource.Cache
+E:\VS projects\rfid2.2\rfid2.2\obj\x86\Debug\rfid2.2.exe
+E:\VS projects\rfid2.2\rfid2.2\obj\x86\Debug\rfid2.2.pdb
+E:\VS projects\rfid2.2\rfid2.2\obj\x86\Debug\rfid2._2.Form1.resources
