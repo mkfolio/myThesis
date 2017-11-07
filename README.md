@@ -6,6 +6,4 @@ The thesis is a robot with an algorithim of simultaneous localization and mappin
 The robot used the LIDAR to map the surrounding area while simultaneously keeping its track using the robot's motor encoder 
 and 9DOF IMU(Inertial measurement unit) to compensate the noisy of motor encoder signal. And the robot carry the UHF RFID to left side to query the tags.
 
-myThesis/s.jpg
-
-![Alt text](/relative/myThesis/s.jpg?raw=true)
+![promisechains](https://raw.githubusercontent.com/mkfolio/myThesis/master/s.jpg)
