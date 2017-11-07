@@ -2,7 +2,10 @@
 
 * The code i uploaded here is a first prototype for our UHF RFID only, I ddnt upload the whole code since it's not perfect yet and its kinda messy. :)
 
-The thesis is a robot with an algorithim of simultaneous localization and mapping (SLAM) using ROS Framework(ros.org),
+The thesis is a robot with an algorithim of simultaneous localization and mapping (SLAM) using ROS Framework(ros.org).
 The robot used the LIDAR to map the surrounding area while simultaneously keeping its track using the robot's motor encoder 
-and 9DOF IMU(Inertial measurement unit) to compensate the noisy of motor encoder signal.
+and 9DOF IMU(Inertial measurement unit) to compensate the noisy of motor encoder signal. And the robot carry the UHF RFID to left side to query the tags.
 
+myThesis/s.jpg
+
+![Alt text](/relative/myThesis/s.jpg?raw=true)
