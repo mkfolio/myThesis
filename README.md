@@ -4,6 +4,6 @@
 
 The thesis is a robot with an algorithim of simultaneous localization and mapping (SLAM) using ROS Framework(ros.org).
 The robot used the LIDAR to map the surrounding area while simultaneously keeping its track using the robot's motor encoder 
-and 9DOF IMU(Inertial measurement unit) to compensate the noisy of motor encoder signal. And the robot carry the UHF RFID to query the tags.
+and 9DOF IMU(Inertial measurement unit to compensate the noisy of motor encoder signal). the robot carry the UHF RFID to query the tags.
 
 ![promisechains](https://raw.githubusercontent.com/mkfolio/myThesis/master/s.jpg)
